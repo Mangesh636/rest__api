@@ -16,7 +16,7 @@ Features:
 - Postman testing
 - Create, Read, Update, Delete
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/OBcjDswRt9g?autoplay=1&mute=1&loop=1"></iframe>
+## Video Link: [https://youtu.be/OBcjDswRt9g?si=UgslolUZUKhW8w49](https://youtu.be/OBcjDswRt9g?si=UgslolUZUKhW8w49)
 
 ## API Documentation: [https://documenter.getpostman.com/view/30334899/2sA2rGtduM](https://documenter.getpostman.com/view/30334899/2sA2rGtduM)
 
